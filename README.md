@@ -14,5 +14,5 @@ This repository is a collection of my daily learning, notes, practice notebooks,
 ✨ Applying all concepts through practical Jupyter notebooks
 💬 Connect With Me
 
-🌐 LinkedIn: https://www.linkedin.com/in/himani-malankar/
+🌐 LinkedIn: https://www.linkedin.com/in/himani-malankar/<br>
 📂 GitHub: https://github.com/himani-pixel
