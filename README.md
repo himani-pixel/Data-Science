@@ -7,11 +7,11 @@ This repository is a collection of my daily learning, notes, practice notebooks,
 
 📘 What I’m Learning
 
-✨ Building a strong foundation in Python for Data Science<br>
-✨ Exploring NumPy, Pandas, and Matplotlib for data manipulation & visualization<br>
-✨ Understanding statistics, data cleaning, and EDA (Exploratory Data Analysis)<br>
-✨ Learning Machine Learning concepts step-by-step<br>
-✨ Applying all concepts through practical Jupyter notebooks<br>
+✨ Building a strong foundation in Python for Data Science.<br>
+✨ Exploring NumPy, Pandas, and Matplotlib for data manipulation & visualization.<br>
+✨ Understanding statistics, data cleaning, and EDA (Exploratory Data Analysis).<br>
+✨ Learning Machine Learning concepts step-by-step.<br>
+✨ Applying all concepts through practical Jupyter notebooks.<br>
 💬 Connect With Me
 
 🌐 LinkedIn: https://www.linkedin.com/in/himani-malankar/<br>
